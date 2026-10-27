@@ -8,12 +8,13 @@ Repository for storing supplementary materials to accompany "Sources of Philosop
 ## The Extended List of References
 
 To view the extended list of references created with the project in mind:
-- in .rtf:
-  - visit [**List of References.rtf**](https://github.com/DominikDziedzic/IntuitionGenerationProject/blob/main/List%20of%20References%20-%20Towards%20a%20Model%20of%20Intuition%20Generation.pdf),
-  - or right-click and select Save as [**List of References.rtf**](https://github.com/DominikDziedzic/IntuitionGenerationProject/raw/main/List%20of%20References%20-%20Towards%20a%20Model%20of%20Intuition%20Generation.pdf),
 - in .pdf:
   - visit [**List of References.pdf**](https://github.com/DominikDziedzic/IntuitionGenerationProject/blob/main/List%20of%20References%20-%20Towards%20a%20Model%20of%20Intuition%20Generation.pdf),
-  - or right-click and select Save as [**List of References.pdf**](https://github.com/DominikDziedzic/IntuitionGenerationProject/raw/main/List%20of%20References%20-%20Towards%20a%20Model%20of%20Intuition%20Generation.pdf).
+  - or right-click and select Save as [**List of References.pdf**](https://github.com/DominikDziedzic/IntuitionGenerationProject/raw/main/List%20of%20References%20-%20Towards%20a%20Model%20of%20Intuition%20Generation.pdf),
+- in .rtf:
+  - right-click and select Save as [**List of References.rtf**](https://github.com/DominikDziedzic/IntuitionGenerationProject/raw/main/List%20of%20References%20-%20Towards%20a%20Model%20of%20Intuition%20Generation.pdf),
+- in .docx:
+  - right-click and select Save as [**List of References.rtf**](https://github.com/DominikDziedzic/IntuitionGenerationProject/raw/main/List%20of%20References%20-%20Towards%20a%20Model%20of%20Intuition%20Generation.pdf),
   
 ---
 
