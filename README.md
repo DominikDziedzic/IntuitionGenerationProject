@@ -39,8 +39,8 @@ The following research instruments have been developed for the project, each inc
 To view the contents of the research instrument:
 - in a web browser, click [**Partitioning: Prototype Experimental Study**](https://ls3.kognilab.pl/index.php/276361?lang=en),
 - in .html:
-  - visit [**Questionnaire 276361.html**]()
-  - right-click and select Save as [**Questionnaire 276361.html**](),
+  - visit [**Questionnaire 276361.html**](https://github.com/DominikDziedzic/IntuitionGenerationProject/blob/main/Questionnaire%20276361.html)
+  - right-click and select Save as [**Questionnaire 276361.html**](https://github.com/DominikDziedzic/IntuitionGenerationProject/raw/main/Questionnaire%20276361.html),
 
 ### Sampling: Prototype Experimental Study
 
