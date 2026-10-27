@@ -34,7 +34,7 @@ To ensure generalizability, I plan to run similar studies on at least three wide
 
 TODO
 
-## Analysis
+## Statistical Analysis
 
 [**R script**](https://github.com/DominikDziedzic/IntuitionGenerationProject/blob/main/Analysis.R) and [**raw data**](https://github.com/DominikDziedzic/IntuitionGenerationProject/blob/main/data.txt) files are made available.
 
