@@ -47,8 +47,8 @@ To view the contents of the research instrument:
 To view the contents of the research instrument:
 - in a web browser, click [**Sampling: Prototype Experimental Study**](https://ls3.kognilab.pl/index.php/937199?lang=en),
 - in .html:
-  - visit [**Questionnaire 937199.html**]()
-  - right-click and select Save as [**Questionnaire 937199.html**](),
+  - visit [**Questionnaire 937199.html**](https://github.com/DominikDziedzic/IntuitionGenerationProject/blob/main/Questionnaire%20937199.html)
+  - right-click and select Save as [**Questionnaire 937199.html**](https://github.com/DominikDziedzic/IntuitionGenerationProject/raw/main/Questionnaire%20937199.html),
 
 ## Statistical Analysis
 
