@@ -56,6 +56,8 @@ To view the contents of the research instrument:
 - in .html:
   - visit [**Questionnaire 937199.html**](https://github.com/DominikDziedzic/IntuitionGenerationProject/blob/main/Questionnaire%20937199.html),
   - right-click and select Save as [**Questionnaire 937199.html**](https://github.com/DominikDziedzic/IntuitionGenerationProject/raw/main/Questionnaire%20937199.html).
+ 
+A series of studies is conducted to quantitatively estimate the impact of probability and value considerations on intuition generation, to demonstrate the causal relationship between value, probability, and participants' responses, and to test the possibility that some responses are purely probability-sensitive, while some others are purely value-sensitive. The questionnaire displays cues in which evaluative and probabilistic dimensions are manipulated. Participants use slider bars to report the perceived probability and value of an object. Both the evaluative and probabilistic dimensions are manipulated to elicit high/low probability/value judgments, e.g., John supports a candidate who has a positive/negative trait and many/few supporters. Mediation analysis will be used to test whether manipulating the described traits influences participants' responses via probability/value evaluations. Linear mixed-effects models with value and probability as fixed effects will be used for data analysis.
 
 ## Statistical Analysis
 
