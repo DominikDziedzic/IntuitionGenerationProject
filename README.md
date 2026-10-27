@@ -5,7 +5,7 @@ Repository for storing supplementary materials to accompany "Sources of Philosop
 - [The Extended List of References](https://github.com/DominikDziedzic/IntuitionGenerationProject/blob/main/README.md#the-extended-list-of-references)
 - [Pilot Studies](https://github.com/DominikDziedzic/IntuitionGenerationProject/blob/main/README.md#pilot-studies)
 - [Data Collection Instruments](https://github.com/DominikDziedzic/IntuitionGenerationProject/blob/main/README.md#data-collection-instruments)
-- [Statistical Analysis](https://github.com/DominikDziedzic/IntuitionGenerationProject/blob/main/README.md#the-extended-list-of-references)
+- [Statistical Analysis](https://github.com/DominikDziedzic/IntuitionGenerationProject/blob/main/README.md#statistical-analysis)
 
 ## The Extended List of References
 
