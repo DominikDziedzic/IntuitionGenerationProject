@@ -2,7 +2,7 @@
 Repository for storing supplementary materials to accompany "Sources of Philosophical Intuitions: Towards a Model of Intuition Generation" project.
 
 **Table of contents:**
-- [The Extended List of References](https://raw.githubusercontent.com/DominikDziedzic/PilotStudyPartitioning/main/data.txt)
+- [The Extended List of References](https://github.com/DominikDziedzic/IntuitionGenerationProject/blob/main/README.md#the-extended-list-of-references)
 
 
 ## The Extended List of References
