@@ -39,16 +39,23 @@ The following research instruments have been developed for the project, each inc
 To view the contents of the research instrument:
 - in a web browser, click [**Partitioning: Prototype Experimental Study**](https://ls3.kognilab.pl/index.php/276361?lang=en),
 - in .html:
-  - visit [**Questionnaire 276361.html**](https://github.com/DominikDziedzic/IntuitionGenerationProject/blob/main/Questionnaire%20276361.html)
-  - right-click and select Save as [**Questionnaire 276361.html**](https://github.com/DominikDziedzic/IntuitionGenerationProject/raw/main/Questionnaire%20276361.html),
+  - visit [**Questionnaire 276361.html**](https://github.com/DominikDziedzic/IntuitionGenerationProject/blob/main/Questionnaire%20276361.html),
+  - right-click and select Save as [**Questionnaire 276361.html**](https://github.com/DominikDziedzic/IntuitionGenerationProject/raw/main/Questionnaire%20276361.html).
+ 
+This study examines the interplay of experimentally and pre-experimentally acquired cognitive resources. To this end, participants are randomly assigned to one of three experimental conditions. In the first condition—referred to as "primed"—the participant reads a scenario and then answers the following question: Does John really know that it's 12 or does he only believe it? In the second condition—referred to as "unprimed"—the questionnaire first displays a scenario, but instead of a question, the training phase follows immediately after. The third condition—referred to as "control"—is similar to the second one: the training phase immediately follows the scenario. All three conditions contain the training phase, in which the questionnaire displays subsequent reasons for a possible answer to the scenario, but training is primed in the first condition: the questionnaire tracks the initial answers and displays the reasons for the initial answers. Participants in the other two conditions are randomly assigned to one of the possible answers to the scenario and are trained on the subsequent reasons for that answer. On each training trial, participants categorize the provided reasons as the reasons for an answer and receive the following feedback:
+
+> Please consider how the explanation provides a reason for the claim that John really knows [only believes] it's 12 o'clock. Make sure you understand how the explanation supports this claim before continuing.
+
+In primed and unprimed conditions, the training phase is followed by the transfer phase, in which a random counter-reason is displayed to encourage the reorganization of acquired knowledge. Emphasis is on the "unprimed" condition, in which participants have the option of shifting their response strategy from one based on the experimentally acquired knowledge to one based on pre-experimental knowledge. All conditions conclude with the final answers to the scenario.
+
 
 ### Sampling: Prototype Experimental Study
 
 To view the contents of the research instrument:
 - in a web browser, click [**Sampling: Prototype Experimental Study**](https://ls3.kognilab.pl/index.php/937199?lang=en),
 - in .html:
-  - visit [**Questionnaire 937199.html**](https://github.com/DominikDziedzic/IntuitionGenerationProject/blob/main/Questionnaire%20937199.html)
-  - right-click and select Save as [**Questionnaire 937199.html**](https://github.com/DominikDziedzic/IntuitionGenerationProject/raw/main/Questionnaire%20937199.html),
+  - visit [**Questionnaire 937199.html**](https://github.com/DominikDziedzic/IntuitionGenerationProject/blob/main/Questionnaire%20937199.html),
+  - right-click and select Save as [**Questionnaire 937199.html**](https://github.com/DominikDziedzic/IntuitionGenerationProject/raw/main/Questionnaire%20937199.html).
 
 ## Statistical Analysis
 
