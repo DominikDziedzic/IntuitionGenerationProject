@@ -65,5 +65,8 @@ Mediation analysis will be used to test whether manipulating the described trait
 
 ## Statistical Analysis
 
-[**R script**](https://github.com/DominikDziedzic/IntuitionGenerationProject/blob/main/Analysis.R) and [**raw data**](https://github.com/DominikDziedzic/IntuitionGenerationProject/blob/main/data.txt) files are made available.
+The project is accompanied by data analysis. All statistical analyses are conducted using the R environment for statistical computing. This section contains the R source code accompanying the respective studies.
+
+To view the R source code accompanying the experimental study on Partitioning:
+- 
 
