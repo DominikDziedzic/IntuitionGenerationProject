@@ -72,8 +72,17 @@ To view the R source code accompanying the experimental study on Partitioning:
   - visit [**Analysis of Variance.R**](https://github.com/DominikDziedzic/IntuitionGenerationProject/blob/main/Analysis%20of%20Variance.R),
   - or right-click and select Save as [**Analysis of Variance.R**](https://github.com/DominikDziedzic/IntuitionGenerationProject/raw/main/Analysis%20of%20Variance.R),
 - for analysis of linear regression in the frequentist and Bayesian frameworks:
-  - visit [**Analysis of Linear Regression.R**](https://github.com/DominikDziedzic/IntuitionGenerationProject/blob/main/Analysis%20of%20Linear%20Regression.R),
-  - or right-click and select Save as [**Analysis of Linear Regression.R**](https://github.com/DominikDziedzic/IntuitionGenerationProject/raw/main/Analysis%20of%20Linear%20Regression.R).
+  - visit [**Analysis of Linear Regression - Partitioning.R**](https://github.com/DominikDziedzic/IntuitionGenerationProject/blob/main/Analysis%20of%20Linear%20Regression%20-%20Partitioning.R),
+  - or right-click and select Save as [**Analysis of Linear Regression - Partitioning.R**](https://github.com/DominikDziedzic/IntuitionGenerationProject/raw/main/Analysis%20of%20Linear%20Regression%20-%20Partitioning.R).
 
 To view the R source code accompanying the experimental study on Sampling:
-
+- for analysis of linear regression in the frequentist and Bayesian frameworks:
+  - visit [**Analysis of Linear Regression - Sampling.R**](https://github.com/DominikDziedzic/IntuitionGenerationProject/blob/main/Analysis%20of%20Linear%20Regression%20-%20Sampling.R),
+  - or right-click and select Save as [**Analysis of Linear Regression - Sampling.R**](https://github.com/DominikDziedzic/IntuitionGenerationProject/raw/main/Analysis%20of%20Linear%20Regression%20-%20Sampling.R),
+- for analysis of mediation:
+  - visit [**Analysis of Mediation.R**](https://github.com/DominikDziedzic/IntuitionGenerationProject/blob/main/Analysis%20of%20Mediation.R),
+  - or right-click and select Save as [**Analysis of Mediation.R**](https://github.com/DominikDziedzic/IntuitionGenerationProject/raw/main/Analysis%20of%20Mediation.R).
+ 
+To view the R source code for Standarization implemented in the studies:
+- visit [**Standarization.R**](https://github.com/DominikDziedzic/IntuitionGenerationProject/blob/main/Standarization.R),
+- or right-click and select Save as [**Standarization.R**](https://github.com/DominikDziedzic/IntuitionGenerationProject/raw/main/Standarization.R).
