@@ -32,7 +32,23 @@ To ensure generalizability, I plan to run similar studies on at least three wide
 
 ## Data Collection Instruments
 
-TODO
+The following research instruments have been developed for the project, each incorporating a variant of the well-known Gettier thought experiment.
+
+### Partitioning: Prototype Experimental Study
+
+To view the contents of the research instrument:
+- in a web browser, click [**Partitioning: Prototype Experimental Study**](https://ls3.kognilab.pl/index.php/276361?lang=en),
+- in .html:
+  - visit [**Questionnaire 276361.html**]()
+  - right-click and select Save as [**Questionnaire 276361.html**](),
+
+### Sampling: Prototype Experimental Study
+
+To view the contents of the research instrument:
+- in a web browser, click [**Sampling: Prototype Experimental Study**](https://ls3.kognilab.pl/index.php/937199?lang=en),
+- in .html:
+  - visit [**Questionnaire 937199.html**]()
+  - right-click and select Save as [**Questionnaire 937199.html**](),
 
 ## Statistical Analysis
 
