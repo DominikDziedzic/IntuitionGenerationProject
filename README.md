@@ -68,5 +68,10 @@ Mediation analysis will be used to test whether manipulating the described trait
 The project is accompanied by data analysis. All statistical analyses are conducted using the R environment for statistical computing. This section contains the R source code accompanying the respective studies.
 
 To view the R source code accompanying the experimental study on Partitioning:
-- 
+- for analysis of variance:
+  - visit [**Analysis of Variance.R**](https://github.com/DominikDziedzic/IntuitionGenerationProject/blob/main/Analysis%20of%20Variance.R),
+  - or right-click and select Save as [**Analysis of Variance.R**](https://github.com/DominikDziedzic/IntuitionGenerationProject/raw/main/Analysis%20of%20Variance.R),
+- for analysis of linear regression in the frequentist and Bayesian frameworks:
+  - visit [**Analysis of Linear Regression.R**](https://github.com/DominikDziedzic/IntuitionGenerationProject/blob/main/Analysis%20of%20Linear%20Regression.R),
+  - or right-click and select Save as [**Analysis of Linear Regression.R**](https://github.com/DominikDziedzic/IntuitionGenerationProject/raw/main/Analysis%20of%20Linear%20Regression.R),
 
