@@ -73,5 +73,7 @@ To view the R source code accompanying the experimental study on Partitioning:
   - or right-click and select Save as [**Analysis of Variance.R**](https://github.com/DominikDziedzic/IntuitionGenerationProject/raw/main/Analysis%20of%20Variance.R),
 - for analysis of linear regression in the frequentist and Bayesian frameworks:
   - visit [**Analysis of Linear Regression.R**](https://github.com/DominikDziedzic/IntuitionGenerationProject/blob/main/Analysis%20of%20Linear%20Regression.R),
-  - or right-click and select Save as [**Analysis of Linear Regression.R**](https://github.com/DominikDziedzic/IntuitionGenerationProject/raw/main/Analysis%20of%20Linear%20Regression.R),
+  - or right-click and select Save as [**Analysis of Linear Regression.R**](https://github.com/DominikDziedzic/IntuitionGenerationProject/raw/main/Analysis%20of%20Linear%20Regression.R).
+
+To view the R source code accompanying the experimental study on Sampling:
 
