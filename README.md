@@ -16,7 +16,7 @@ To view the extended list of references created with the project in mind:
 - in .rtf:
   - right-click and select Save as [**List of References.rtf**](https://github.com/DominikDziedzic/IntuitionGenerationProject/raw/main/List%20of%20References%20-%20Towards%20a%20Model%20of%20Intuition%20Generation.pdf),
 - in .docx:
-  - right-click and select Save as [**List of References.rtf**](https://github.com/DominikDziedzic/IntuitionGenerationProject/raw/main/List%20of%20References%20-%20Towards%20a%20Model%20of%20Intuition%20Generation.pdf),
+  - right-click and select Save as [**List of References.rtf**](https://github.com/DominikDziedzic/IntuitionGenerationProject/raw/main/List%20of%20References%20-%20Towards%20a%20Model%20of%20Intuition%20Generation.docx),
   
 ---
 
